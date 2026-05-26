@@ -49,6 +49,7 @@ The data was cleaned, transformed, and analysed using SQL queries.
   
 
 ## SQL Queries Included
+- [NextGen Corp. Query](
 - `tenure_analysis.sql` – Identifying longest‑serving employees  
 - `turnover_by_department.sql` – Department‑level turnover calculations  
 - `performance_risk.sql` – Flagging employees at risk of leaving  
