@@ -84,11 +84,18 @@ For privacy reasons, it is not included in this repository.
 - Salary does **not** strongly correlate with performance.
 
   
-## Visual Outputs (some)
-- Average salary by job title
-- Average performance by department
-- Turnover by department
-- Top turnover reasons
+## Visual Outputs
+### Average Salary by Job Title
+![Average Salary by Job Title](Average%20salary%20by%20job%20title.png)
+
+### Average Performance by Department
+![Average Performance by Department](Average%20performance%20by%20department.png)
+
+### Turnover by Department
+![Turnover by Department](Turnover%20by%20department.png)
+
+### Top Turnover Reasons
+![Top Turnover Reasons](Top%20turnover%20reasons.png)
 
 
 ## Recommendations
@@ -105,3 +112,10 @@ For privacy reasons, it is not included in this repository.
 - Improve performance consistency through targeted coaching
 - Optimise salary allocation and reduce pay inequities
 - Strengthen employee engagement and retention
+
+
+## Conclusion
+This SQL project provides a comprehensive analysis of employee retention, performance, and salary data for NextGen Corp.  
+The findings highlight critical turnover issues in Marketing and Engineering, performance imbalances across departments, and weak alignment between salary and productivity.  
+By addressing these insights through targeted retention programmes, career development initiatives, and performance‑based compensation, NextGen Corp. can strengthen workforce stability, improve employee satisfaction, and enhance overall organisational efficiency.  
+This project demonstrates how SQL can be used to uncover actionable HR insights and support data‑driven decision‑making in both healthcare and non‑clinical business contexts.
