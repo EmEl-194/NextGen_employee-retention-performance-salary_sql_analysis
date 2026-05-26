@@ -10,6 +10,7 @@ This project analyses employee retention, performance, and salary data for **Nex
 
 
 ## Dataset
+The original dataset used for this project is confidential. For privacy reasons, it is not included in this repository.
 The dataset includes:
 - Employee demographics  
 - Tenure and employment status  
@@ -48,13 +49,8 @@ The data was cleaned, transformed, and analysed using SQL queries.
 - How does salary correlate with performance?
   
 
-## SQL Queries Included
+## SQL Query Included
 - [NextGen Corp. Query](NextGen%20Corp.%20Query.sql)
-
-  
-## Dataset
-The original dataset used for this project is confidential.  
-For privacy reasons, it is not included in this repository.
 
 
 ## Insights
@@ -76,7 +72,7 @@ For privacy reasons, it is not included in this repository.
 - Salary does **not** strongly correlate with performance.
 
   
-## Visual Outputs
+## Some Visual Outputs
 ### Average Salary by Job Title
 ![Average Salary by Job Title](Average%20salary%20by%20job%20title.png)
 
