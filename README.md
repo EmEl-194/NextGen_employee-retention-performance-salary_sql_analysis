@@ -49,18 +49,9 @@ The data was cleaned, transformed, and analysed using SQL queries.
   
 
 ## SQL Queries Included
-- [NextGen Corp. Query](
-- `tenure_analysis.sql` – Identifying longest‑serving employees  
-- `turnover_by_department.sql` – Department‑level turnover calculations  
-- `performance_risk.sql` – Flagging employees at risk of leaving  
-- `exit_reasons.sql` – Breakdown of reasons for leaving  
-- `extreme_performance.sql` – Identifying high and low performers  
-- `avg_performance_by_dept.sql` – Department performance averages  
-- `salary_expense.sql` – Total salary cost  
-- `salary_by_job_title.sql` – Salary benchmarking  
-- `salary_vs_performance.sql` – Correlation analysis
-  
+- [NextGen Corp. Query](NextGen%20Corp.%20Query.sql)
 
+  
 ## Dataset
 The original dataset used for this project is confidential.  
 For privacy reasons, it is not included in this repository.
